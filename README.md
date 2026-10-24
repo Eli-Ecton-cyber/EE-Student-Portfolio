@@ -14,4 +14,4 @@ This repo holds write-ups from hands-on coursework projects covering vulnerabili
 More projects will be added here as I complete more coursework and independent labs.
 
 ## Contact
-eliecton891@gmail.com | **[LinkedIn](www.linkedin.com/in/elijah-ecton-292652441)**
+eliecton891@gmail.com | **[LinkedIn]([www.linkedin.com/in/elijah-ecton-292652441](https://www.linkedin.com/in/elijah-ecton-292652441/))**
