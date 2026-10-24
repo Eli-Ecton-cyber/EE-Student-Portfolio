@@ -1,6 +1,7 @@
 # Eli Ecton — Cybersecurity Portfolio
 
 Associate of Applied Science in Cybersecurity, Northern Virginia Community College (NVCC)
+Bachelors of Applied Science in Cybersecurity, George Mason University (GMU), expected graduation May 2028
 
 This repo holds write-ups from hands-on coursework projects covering vulnerability assessment, network security, and digital forensics. Each project folder has a README with an overview, tools used, process, and key findings, plus the full report.
 
